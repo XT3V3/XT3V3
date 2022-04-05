@@ -1,7 +1,6 @@
 - 👋 Hi, I’m XT3V3.
 - 👀 Python rocks!
 - 🌱 I’m currently learning Python, Matplotlib, Bokeh, Plotly, Pyfas ...
-
 YOU are fantastic!
 
 <!---
