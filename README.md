@@ -1,4 +1,4 @@
-- 👋 YOU are fantastic!
+- YOU are fantastic!
 - 👀 Python rocks!
 - 🌱 I’m currently learning Python, Matplotlib, Bokeh, Plotly, Pyfas ...
 
