@@ -1,7 +1,7 @@
-- 👋 Hi, I’m XT3V3.
+- 👋 YOU are fantastic!
 - 👀 Python rocks!
 - 🌱 I’m currently learning Python, Matplotlib, Bokeh, Plotly, Pyfas ...
-YOU are fantastic!
+
 
 <!---
 XT3V3/XT3V3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
